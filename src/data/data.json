@@ -1,0 +1,34 @@
+{
+    "tareas": [
+      {
+        "id": 1,
+        "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576717/img_heroes/marvel-wolverine_pbo110.jpg",
+        "nombre": "Tarea 1",
+        "descripcion": "Ejemplo tarea 1"
+      },
+      {
+        "id": 2,
+        "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576717/img_heroes/marvel-wolverine_pbo110.jpg",
+        "nombre": "Tarea 2",
+        "descripcion": "Ejemplo tarea 2"
+      },
+      {
+        "id": 3,
+        "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576717/img_heroes/marvel-wolverine_pbo110.jpg",
+        "nombre": "Tarea 3",
+        "descripcion": "Ejemplo tarea 3"
+      },
+      {
+        "url": [
+          "https://res.cloudinary.com/danimel/image/upload/v1641933602/4_hi0ywp.jpg"
+        ],
+        "nombre": [
+          "Comer"
+        ],
+        "descripcion": [
+          "Platos del chef"
+        ],
+        "id": 4
+      }
+    ]
+  }
