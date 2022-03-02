@@ -5,6 +5,8 @@ import Listar from '../components/crud/Listar';
 import Login from '../components/Login';
 import Registro from '../components/Registro';
 import NavBar from '../components/crud/NavBar';
+import Formulario from '../components/Formulario';
+import ListarImagiMagnify from '../components/ListarImagiMagnify';
 
 
 export default function AppRouter() {
@@ -18,6 +20,8 @@ export default function AppRouter() {
                 <Route path="/registro" element={<Registro />} />
                 <Route path="/" element={<Agregar />} />
                 <Route path="/listar" element={<Listar />} />
+                <Route path="/formulario" element={<Formulario/>} />
+                <Route path="/listarCard" element={<ListarImagiMagnify/>}/>
             </Routes>
         </BrowserRouter>
     );

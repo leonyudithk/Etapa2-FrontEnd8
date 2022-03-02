@@ -20,8 +20,14 @@ const NavBar = () => {
                       <NavLink>
                       <Link to='/listar'>Listar</Link>
                       </NavLink>
+                      <NavLink>
+                      <Link to='/listarCard'>Listar Card</Link>
+                      </NavLink>
                       <Nav>
-                     <Nav.Link><Link to='login'>Login</Link> </Nav.Link> 
+                     <Nav.Link><Link to='/formulario'>Formulario</Link> </Nav.Link> 
+                      </Nav>
+                      <Nav>
+                     <Nav.Link><Link to='/login'>Login</Link> </Nav.Link> 
                       </Nav>
 
                       

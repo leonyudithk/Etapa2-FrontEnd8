@@ -1,4 +1,4 @@
-import { connectFirestoreEmulator } from 'firebase/firestore';
+
 import React, { useEffect, useState } from 'react';
 import { Button, Image, Table } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';

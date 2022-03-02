@@ -9,4 +9,8 @@ export const typesPlantas={
     list: 'list',
     edit: 'edit',
     delete: 'delete'
+
+}
+export const typesApi={
+    list: 'list'
 }
